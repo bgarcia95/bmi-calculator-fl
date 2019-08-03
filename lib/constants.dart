@@ -4,6 +4,8 @@ const kBottomContainerHeight = 80.0;
 const kActiveCardColor = Color(0xFF1D1F33);
 const kInactiveCardColor = Color(0xFF111328);
 const kBottomContainerColor = Color(0xFFEB1555);
+const kMinHeight = 120.0;
+const kMaxHeight = 220.0;
 
 const kLabelTextStyle = TextStyle(
   fontSize: 18.0,
